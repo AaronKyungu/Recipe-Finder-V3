@@ -1,0 +1,16 @@
+query SavedRecipes($limit: Float, $cursor: Float){
+  getSavedRecipes(limit: $limit, cursor: $cursor){
+    recipes {
+      id
+      recipe_title
+      recipe_desc
+      photo_url
+      rating_stars
+      review_count
+    }
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+  }
+}

@@ -1,0 +1,3 @@
+query GetSavedStatus($recipe_ids: [Float!]!){
+  getSavedStatus(recipe_ids: $recipe_ids)
+}

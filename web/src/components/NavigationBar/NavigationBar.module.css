@@ -1,0 +1,13 @@
+#navTitle {
+  font-size: 1.3em;
+  font-weight: bold;
+  text-align: center;
+  padding: 0;
+  margin-left: 0.5em;
+  margin-right: 0;
+}
+
+.navMenuItemIcon {
+  margin-right: 0.5em;
+  float: left;
+}
