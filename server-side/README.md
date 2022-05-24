@@ -30,4 +30,3 @@
 - ts-node
 - type-graphql
 - typescript
-
