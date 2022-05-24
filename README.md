@@ -7,31 +7,12 @@
 - Aaron Kyungu
 - Mohamed Madi
 
-## Dependencies:
-
-- apollo-server-express
-- argon2
-- connect-redis
-- cors
-- dataloader
-- express
-- express-session
-- graphql
-- ioredis
-- pg
-- redis
-- reflect-metadata
-- typeorm
-
-### Dev Dependencies:
-
-- @types/connect-redis
-- @types/cors
-- @types/express
-- @types/express-session
-- @types/node
-- @types/redis
-- nodemon
-- ts-node
-- type-graphql
-- typescript
+## Tech Stack / Modules
+- TypeScript
+- React
+- Next.JS
+- GraphQL with Apollo
+- Chakra UI
+- PostgreSQL
+- GraphQL Apollo Server
+- TypeORM
